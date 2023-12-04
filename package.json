@@ -38,7 +38,7 @@
     "@solana/spl-token": "^0.3.6",
     
     "ani-cursor": "^0.0.5",
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "body-parser": "^1.20.1",
     "bs58": "^5.0.0",
     "bson": "^4.7.0",
